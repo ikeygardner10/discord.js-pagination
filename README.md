@@ -1,3 +1,5 @@
+# Only added a collection timer reset lol
+
 <div align="center">
   <p>
     <a href="https://nodei.co/npm/discord.js-pagination
